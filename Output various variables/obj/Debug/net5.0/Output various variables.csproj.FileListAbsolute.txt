@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\bin\Debug\net5.0\Output various variables.exe
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\bin\Debug\net5.0\Output various variables.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\bin\Debug\net5.0\Output various variables.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\bin\Debug\net5.0\Output various variables.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\bin\Debug\net5.0\Output various variables.dll
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\bin\Debug\net5.0\ref\Output various variables.dll
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\bin\Debug\net5.0\Output various variables.pdb
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.dll
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\ref\Output various variables.dll
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.pdb
+E:\WorkSpace\Portfolio\C#\연습\Output various variables\obj\Debug\net5.0\Output various variables.genruntimeconfig.cache
