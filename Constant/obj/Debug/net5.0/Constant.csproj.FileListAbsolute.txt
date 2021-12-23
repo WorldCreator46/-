@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Constant\bin\Debug\net5.0\Constant.exe
+E:\WorkSpace\Portfolio\C#\연습\Constant\bin\Debug\net5.0\Constant.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Constant\bin\Debug\net5.0\Constant.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Constant\bin\Debug\net5.0\Constant.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Constant\bin\Debug\net5.0\Constant.dll
+E:\WorkSpace\Portfolio\C#\연습\Constant\bin\Debug\net5.0\ref\Constant.dll
+E:\WorkSpace\Portfolio\C#\연습\Constant\bin\Debug\net5.0\Constant.pdb
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.dll
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\ref\Constant.dll
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.pdb
+E:\WorkSpace\Portfolio\C#\연습\Constant\obj\Debug\net5.0\Constant.genruntimeconfig.cache
