@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Allocates and outputs variables./1.0.0": {
+        "runtime": {
+          "Allocates and outputs variables..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Allocates and outputs variables./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
