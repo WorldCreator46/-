@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\bin\Debug\net5.0\Format Specifier.exe
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\bin\Debug\net5.0\Format Specifier.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\bin\Debug\net5.0\Format Specifier.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\bin\Debug\net5.0\Format Specifier.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\bin\Debug\net5.0\Format Specifier.dll
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\bin\Debug\net5.0\ref\Format Specifier.dll
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\bin\Debug\net5.0\Format Specifier.pdb
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.dll
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\ref\Format Specifier.dll
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.pdb
+E:\WorkSpace\Portfolio\C#\연습\Format Specifier\obj\Debug\net5.0\Format Specifier.genruntimeconfig.cache
