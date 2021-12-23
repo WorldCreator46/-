@@ -1,0 +1,16 @@
+C:\Users\chlrj\source\repos\Type Conersion\bin\Debug\net5.0\Type Conersion.exe
+C:\Users\chlrj\source\repos\Type Conersion\bin\Debug\net5.0\Type Conersion.deps.json
+C:\Users\chlrj\source\repos\Type Conersion\bin\Debug\net5.0\Type Conersion.runtimeconfig.json
+C:\Users\chlrj\source\repos\Type Conersion\bin\Debug\net5.0\Type Conersion.runtimeconfig.dev.json
+C:\Users\chlrj\source\repos\Type Conersion\bin\Debug\net5.0\Type Conersion.dll
+C:\Users\chlrj\source\repos\Type Conersion\bin\Debug\net5.0\ref\Type Conersion.dll
+C:\Users\chlrj\source\repos\Type Conersion\bin\Debug\net5.0\Type Conersion.pdb
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.csprojAssemblyReference.cache
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.AssemblyInfoInputs.cache
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.AssemblyInfo.cs
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.csproj.CoreCompileInputs.cache
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.dll
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\ref\Type Conersion.dll
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.pdb
+C:\Users\chlrj\source\repos\Type Conersion\obj\Debug\net5.0\Type Conersion.genruntimeconfig.cache
