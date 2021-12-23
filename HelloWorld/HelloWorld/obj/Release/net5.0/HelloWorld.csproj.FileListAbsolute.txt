@@ -1,0 +1,15 @@
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\bin\Release\net5.0\HelloWorld.exe
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\bin\Release\net5.0\HelloWorld.deps.json
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\bin\Release\net5.0\HelloWorld.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\bin\Release\net5.0\HelloWorld.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\bin\Release\net5.0\HelloWorld.dll
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\bin\Release\net5.0\ref\HelloWorld.dll
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\bin\Release\net5.0\HelloWorld.pdb
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\HelloWorld.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\HelloWorld.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\HelloWorld.dll
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\ref\HelloWorld.dll
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\HelloWorld.pdb
+E:\WorkSpace\Portfolio\C#\연습\HelloWorld\HelloWorld\obj\Release\net5.0\HelloWorld.genruntimeconfig.cache
