@@ -1,0 +1,15 @@
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\bin\Debug\net5.0\Outputs a variable.exe
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\bin\Debug\net5.0\Outputs a variable.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\bin\Debug\net5.0\Outputs a variable.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\bin\Debug\net5.0\Outputs a variable.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\bin\Debug\net5.0\Outputs a variable.dll
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\bin\Debug\net5.0\ref\Outputs a variable.dll
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\bin\Debug\net5.0\Outputs a variable.pdb
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\Outputs a variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\Outputs a variable.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\Outputs a variable.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\Outputs a variable.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\Outputs a variable.dll
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\ref\Outputs a variable.dll
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\Outputs a variable.pdb
+E:\WorkSpace\Portfolio\C#\연습\Outputs a variable\obj\Debug\net5.0\Outputs a variable.genruntimeconfig.cache
