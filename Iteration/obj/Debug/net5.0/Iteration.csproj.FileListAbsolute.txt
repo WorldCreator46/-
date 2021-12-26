@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Iteration\bin\Debug\net5.0\Iteration.exe
+E:\WorkSpace\Portfolio\C#\연습\Iteration\bin\Debug\net5.0\Iteration.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Iteration\bin\Debug\net5.0\Iteration.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Iteration\bin\Debug\net5.0\Iteration.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Iteration\bin\Debug\net5.0\Iteration.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration\bin\Debug\net5.0\ref\Iteration.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration\bin\Debug\net5.0\Iteration.pdb
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\ref\Iteration.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.pdb
+E:\WorkSpace\Portfolio\C#\연습\Iteration\obj\Debug\net5.0\Iteration.genruntimeconfig.cache
