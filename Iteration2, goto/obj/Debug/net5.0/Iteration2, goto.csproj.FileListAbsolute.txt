@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\bin\Debug\net5.0\Iteration2, goto.exe
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\bin\Debug\net5.0\Iteration2, goto.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\bin\Debug\net5.0\Iteration2, goto.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\bin\Debug\net5.0\Iteration2, goto.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\bin\Debug\net5.0\Iteration2, goto.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\bin\Debug\net5.0\ref\Iteration2, goto.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\bin\Debug\net5.0\Iteration2, goto.pdb
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\ref\Iteration2, goto.dll
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.pdb
+E:\WorkSpace\Portfolio\C#\연습\Iteration2, goto\obj\Debug\net5.0\Iteration2, goto.genruntimeconfig.cache
