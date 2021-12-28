@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Arrays\bin\Debug\net5.0\Arrays.exe
+E:\WorkSpace\Portfolio\C#\연습\Arrays\bin\Debug\net5.0\Arrays.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Arrays\bin\Debug\net5.0\Arrays.dll
+E:\WorkSpace\Portfolio\C#\연습\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+E:\WorkSpace\Portfolio\C#\연습\Arrays\bin\Debug\net5.0\Arrays.pdb
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.dll
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.pdb
+E:\WorkSpace\Portfolio\C#\연습\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache
