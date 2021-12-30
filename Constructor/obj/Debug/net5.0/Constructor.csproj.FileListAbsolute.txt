@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Constructor\bin\Debug\net5.0\Constructor.exe
+E:\WorkSpace\Portfolio\C#\연습\Constructor\bin\Debug\net5.0\Constructor.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Constructor\bin\Debug\net5.0\Constructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Constructor\bin\Debug\net5.0\ref\Constructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Constructor\bin\Debug\net5.0\Constructor.pdb
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\ref\Constructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.pdb
+E:\WorkSpace\Portfolio\C#\연습\Constructor\obj\Debug\net5.0\Constructor.genruntimeconfig.cache

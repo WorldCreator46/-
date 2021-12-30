@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\This\bin\Debug\net5.0\This.exe
+E:\WorkSpace\Portfolio\C#\연습\This\bin\Debug\net5.0\This.deps.json
+E:\WorkSpace\Portfolio\C#\연습\This\bin\Debug\net5.0\This.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\This\bin\Debug\net5.0\This.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\This\bin\Debug\net5.0\This.dll
+E:\WorkSpace\Portfolio\C#\연습\This\bin\Debug\net5.0\ref\This.dll
+E:\WorkSpace\Portfolio\C#\연습\This\bin\Debug\net5.0\This.pdb
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.dll
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\ref\This.dll
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.pdb
+E:\WorkSpace\Portfolio\C#\연습\This\obj\Debug\net5.0\This.genruntimeconfig.cache

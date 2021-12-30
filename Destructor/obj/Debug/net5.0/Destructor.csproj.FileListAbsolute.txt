@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Destructor\bin\Debug\net5.0\Destructor.exe
+E:\WorkSpace\Portfolio\C#\연습\Destructor\bin\Debug\net5.0\Destructor.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Destructor\bin\Debug\net5.0\Destructor.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Destructor\bin\Debug\net5.0\Destructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Destructor\bin\Debug\net5.0\ref\Destructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Destructor\bin\Debug\net5.0\Destructor.pdb
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\ref\Destructor.dll
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.pdb
+E:\WorkSpace\Portfolio\C#\연습\Destructor\obj\Debug\net5.0\Destructor.genruntimeconfig.cache
