@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\bin\Debug\net5.0\Set, Get.exe
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\bin\Debug\net5.0\Set, Get.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\bin\Debug\net5.0\Set, Get.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\bin\Debug\net5.0\Set, Get.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\bin\Debug\net5.0\Set, Get.dll
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\bin\Debug\net5.0\ref\Set, Get.dll
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\bin\Debug\net5.0\Set, Get.pdb
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.dll
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\ref\Set, Get.dll
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.pdb
+E:\WorkSpace\Portfolio\C#\연습\Set, Get\obj\Debug\net5.0\Set, Get.genruntimeconfig.cache

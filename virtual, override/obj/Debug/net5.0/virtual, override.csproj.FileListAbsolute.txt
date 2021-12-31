@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\bin\Debug\net5.0\virtual, override.exe
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\bin\Debug\net5.0\virtual, override.deps.json
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\bin\Debug\net5.0\virtual, override.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\bin\Debug\net5.0\virtual, override.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\bin\Debug\net5.0\virtual, override.dll
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\bin\Debug\net5.0\ref\virtual, override.dll
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\bin\Debug\net5.0\virtual, override.pdb
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.dll
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\ref\virtual, override.dll
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.pdb
+E:\WorkSpace\Portfolio\C#\연습\virtual, override\obj\Debug\net5.0\virtual, override.genruntimeconfig.cache

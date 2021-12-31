@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\bin\Debug\net5.0\PartialClass.exe
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\bin\Debug\net5.0\PartialClass.deps.json
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\bin\Debug\net5.0\PartialClass.dll
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\bin\Debug\net5.0\ref\PartialClass.dll
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\bin\Debug\net5.0\PartialClass.pdb
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.dll
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\ref\PartialClass.dll
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.pdb
+E:\WorkSpace\Portfolio\C#\연습\PartialClass\obj\Debug\net5.0\PartialClass.genruntimeconfig.cache

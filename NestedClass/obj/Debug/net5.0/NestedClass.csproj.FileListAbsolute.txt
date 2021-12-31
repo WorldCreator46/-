@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\bin\Debug\net5.0\NestedClass.exe
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\bin\Debug\net5.0\NestedClass.deps.json
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\bin\Debug\net5.0\NestedClass.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\bin\Debug\net5.0\NestedClass.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\bin\Debug\net5.0\NestedClass.dll
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\bin\Debug\net5.0\ref\NestedClass.dll
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\bin\Debug\net5.0\NestedClass.pdb
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.dll
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\ref\NestedClass.dll
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.pdb
+E:\WorkSpace\Portfolio\C#\연습\NestedClass\obj\Debug\net5.0\NestedClass.genruntimeconfig.cache
