@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\bin\Debug\net5.0\String interpolation.exe
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\bin\Debug\net5.0\String interpolation.deps.json
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\bin\Debug\net5.0\String interpolation.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\bin\Debug\net5.0\String interpolation.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\bin\Debug\net5.0\String interpolation.dll
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\bin\Debug\net5.0\ref\String interpolation.dll
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\bin\Debug\net5.0\String interpolation.pdb
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.dll
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\ref\String interpolation.dll
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.pdb
+E:\WorkSpace\Portfolio\C#\연습\String interpolation\obj\Debug\net5.0\String interpolation.genruntimeconfig.cache
