@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\bin\Debug\net5.0\Auto-property initializers.exe
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\bin\Debug\net5.0\Auto-property initializers.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\bin\Debug\net5.0\Auto-property initializers.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\bin\Debug\net5.0\Auto-property initializers.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\bin\Debug\net5.0\Auto-property initializers.dll
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\bin\Debug\net5.0\ref\Auto-property initializers.dll
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\bin\Debug\net5.0\Auto-property initializers.pdb
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.dll
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\ref\Auto-property initializers.dll
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.pdb
+E:\WorkSpace\Portfolio\C#\연습\Auto-property initializers\obj\Debug\net5.0\Auto-property initializers.genruntimeconfig.cache

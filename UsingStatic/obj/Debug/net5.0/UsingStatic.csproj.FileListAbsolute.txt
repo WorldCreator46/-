@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\bin\Debug\net5.0\UsingStatic.exe
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\bin\Debug\net5.0\UsingStatic.deps.json
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\bin\Debug\net5.0\UsingStatic.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\bin\Debug\net5.0\UsingStatic.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\bin\Debug\net5.0\UsingStatic.dll
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\bin\Debug\net5.0\ref\UsingStatic.dll
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\bin\Debug\net5.0\UsingStatic.pdb
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.dll
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\ref\UsingStatic.dll
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.pdb
+E:\WorkSpace\Portfolio\C#\연습\UsingStatic\obj\Debug\net5.0\UsingStatic.genruntimeconfig.cache

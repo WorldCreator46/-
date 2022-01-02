@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\bin\Debug\net5.0\IndexInitializers.exe
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\bin\Debug\net5.0\IndexInitializers.deps.json
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\bin\Debug\net5.0\IndexInitializers.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\bin\Debug\net5.0\IndexInitializers.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\bin\Debug\net5.0\IndexInitializers.dll
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\bin\Debug\net5.0\ref\IndexInitializers.dll
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\bin\Debug\net5.0\IndexInitializers.pdb
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.dll
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\ref\IndexInitializers.dll
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.pdb
+E:\WorkSpace\Portfolio\C#\연습\IndexInitializers\obj\Debug\net5.0\IndexInitializers.genruntimeconfig.cache

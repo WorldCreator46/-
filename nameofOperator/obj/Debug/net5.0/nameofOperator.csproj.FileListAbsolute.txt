@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\bin\Debug\net5.0\nameofOperator.exe
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\bin\Debug\net5.0\nameofOperator.deps.json
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\bin\Debug\net5.0\nameofOperator.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\bin\Debug\net5.0\nameofOperator.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\bin\Debug\net5.0\nameofOperator.dll
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\bin\Debug\net5.0\ref\nameofOperator.dll
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\bin\Debug\net5.0\nameofOperator.pdb
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.dll
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\ref\nameofOperator.dll
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.pdb
+E:\WorkSpace\Portfolio\C#\연습\nameofOperator\obj\Debug\net5.0\nameofOperator.genruntimeconfig.cache
