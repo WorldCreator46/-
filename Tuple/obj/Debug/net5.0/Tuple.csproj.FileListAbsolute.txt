@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Tuple\bin\Debug\net5.0\Tuple.exe
+E:\WorkSpace\Portfolio\C#\연습\Tuple\bin\Debug\net5.0\Tuple.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Tuple\bin\Debug\net5.0\Tuple.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Tuple\bin\Debug\net5.0\Tuple.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Tuple\bin\Debug\net5.0\Tuple.dll
+E:\WorkSpace\Portfolio\C#\연습\Tuple\bin\Debug\net5.0\ref\Tuple.dll
+E:\WorkSpace\Portfolio\C#\연습\Tuple\bin\Debug\net5.0\Tuple.pdb
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.dll
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\ref\Tuple.dll
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.pdb
+E:\WorkSpace\Portfolio\C#\연습\Tuple\obj\Debug\net5.0\Tuple.genruntimeconfig.cache
