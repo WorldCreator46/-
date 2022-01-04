@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch statements with patterns", "Switch statements with patterns.csproj", "{DC8B2289-46CB-4B2B-AFBE-B2B9E10588D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8B2289-46CB-4B2B-AFBE-B2B9E10588D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8B2289-46CB-4B2B-AFBE-B2B9E10588D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8B2289-46CB-4B2B-AFBE-B2B9E10588D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8B2289-46CB-4B2B-AFBE-B2B9E10588D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05539A54-E388-499B-818B-5672E3721E4A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\New_Out\bin\Debug\net5.0\New_Out.exe
+E:\WorkSpace\Portfolio\C#\연습\New_Out\bin\Debug\net5.0\New_Out.deps.json
+E:\WorkSpace\Portfolio\C#\연습\New_Out\bin\Debug\net5.0\New_Out.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\New_Out\bin\Debug\net5.0\New_Out.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\New_Out\bin\Debug\net5.0\New_Out.dll
+E:\WorkSpace\Portfolio\C#\연습\New_Out\bin\Debug\net5.0\ref\New_Out.dll
+E:\WorkSpace\Portfolio\C#\연습\New_Out\bin\Debug\net5.0\New_Out.pdb
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.dll
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\ref\New_Out.dll
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.pdb
+E:\WorkSpace\Portfolio\C#\연습\New_Out\obj\Debug\net5.0\New_Out.genruntimeconfig.cache

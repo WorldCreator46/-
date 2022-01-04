@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\bin\Debug\net5.0\Switch statements with patterns.exe
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\bin\Debug\net5.0\Switch statements with patterns.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\bin\Debug\net5.0\Switch statements with patterns.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\bin\Debug\net5.0\Switch statements with patterns.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\bin\Debug\net5.0\Switch statements with patterns.dll
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\bin\Debug\net5.0\ref\Switch statements with patterns.dll
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\bin\Debug\net5.0\Switch statements with patterns.pdb
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.csprojAssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.dll
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\ref\Switch statements with patterns.dll
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.pdb
+E:\WorkSpace\Portfolio\C#\연습\Switch statements with patterns\obj\Debug\net5.0\Switch statements with patterns.genruntimeconfig.cache
