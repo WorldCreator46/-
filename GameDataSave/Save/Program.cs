@@ -29,7 +29,8 @@ namespace Save
 
             //PBKDF2(Password-Based Key Derivation Function)
             //반복은 65535번
-            var PBKDF2Key = new Rfc2898DeriveBytes(password, salt, 65535, HashAlgorithmName.SHA256);
+            // var PBKDF2Key = new Rfc2898DeriveBytes(password, salt, 65535, HashAlgorithmName.SHA256);
+            var PBKDF2Key = new Rfc2898DeriveBytes(password, salt, 65535);
             var secretKey = PBKDF2Key.GetBytes(aes.KeySize / 8);
             var iv = PBKDF2Key.GetBytes(aes.BlockSize / 8);
 
@@ -48,14 +49,16 @@ namespace Save
             return xBuff;
         }
         //AES_256 복호화
-        public byte[] AESDecrypt256(byte[] decryptData, String password)
+        public byte[] AESDecrypt256(byte[] decryptData, string password)
         {
             // Salt는 비밀번호의 길이를 SHA256 해쉬값으로 한다.
             var salt = sha256Managed.ComputeHash(Encoding.UTF8.GetBytes(password.Length.ToString()));
 
             //PBKDF2(Password-Based Key Derivation Function)
             //반복은 65535번
-            var PBKDF2Key = new Rfc2898DeriveBytes(password, salt, 65535, HashAlgorithmName.SHA256);
+            // var PBKDF2Key = new Rfc2898DeriveBytes(password, salt, 65535, HashAlgorithmName.SHA256);
+            var PBKDF2Key = new Rfc2898DeriveBytes(password, salt, 65535);
+            WriteLine(PBKDF2Key.HashAlgorithm.Name);
             var secretKey = PBKDF2Key.GetBytes(aes.KeySize / 8);
             var iv = PBKDF2Key.GetBytes(aes.BlockSize / 8);
 
@@ -125,7 +128,9 @@ namespace Save
             AESEncrypt aes = new AESEncrypt();
             SetProperty();
             var planeText = JsonConvert.SerializeObject(Property, Formatting.Indented);
-            
+
+
+            WriteLine(aes.AESEncrypt256(Encoding.UTF8.GetBytes(planeText), password));
             WriteFile(aes.AESEncrypt256(Encoding.UTF8.GetBytes(planeText), password));
 
             ReadFile();
@@ -137,6 +142,9 @@ namespace Save
 
             planeText = JsonConvert.SerializeObject(Property, Formatting.Indented);
 
+            var s = Encoding.UTF8.GetString(aes.AESEncrypt256(Encoding.UTF8.GetBytes(planeText), password));
+
+            WriteLine(s);
             WriteFile(aes.AESEncrypt256(Encoding.UTF8.GetBytes(planeText), password));
 
             ReadFile();
