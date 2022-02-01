@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Test1\bin\Debug\net5.0\Test1.exe
+E:\WorkSpace\Portfolio\C#\연습\Test1\bin\Debug\net5.0\Test1.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Test1\bin\Debug\net5.0\Test1.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Test1\bin\Debug\net5.0\Test1.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Test1\bin\Debug\net5.0\Test1.dll
+E:\WorkSpace\Portfolio\C#\연습\Test1\bin\Debug\net5.0\ref\Test1.dll
+E:\WorkSpace\Portfolio\C#\연습\Test1\bin\Debug\net5.0\Test1.pdb
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.csproj.AssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.dll
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\ref\Test1.dll
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.pdb
+E:\WorkSpace\Portfolio\C#\연습\Test1\obj\Debug\net5.0\Test1.genruntimeconfig.cache
