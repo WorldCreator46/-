@@ -1,0 +1,16 @@
+E:\WorkSpace\Portfolio\C#\연습\Test3\bin\Debug\netcoreapp3.1\Test3.exe
+E:\WorkSpace\Portfolio\C#\연습\Test3\bin\Debug\netcoreapp3.1\Test3.deps.json
+E:\WorkSpace\Portfolio\C#\연습\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\Test3\bin\Debug\netcoreapp3.1\Test3.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\Test3\bin\Debug\netcoreapp3.1\Test3.dll
+E:\WorkSpace\Portfolio\C#\연습\Test3\bin\Debug\netcoreapp3.1\Test3.pdb
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.csproj.AssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.Form1.resources
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.csproj.GenerateResource.cache
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.dll
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.pdb
+E:\WorkSpace\Portfolio\C#\연습\Test3\obj\Debug\netcoreapp3.1\Test3.genruntimeconfig.cache
