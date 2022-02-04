@@ -19,7 +19,7 @@ namespace Test3
         }
         void button1_click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World");
+            MessageBox.Show(textBox1.Text);
         }
     }
 }
