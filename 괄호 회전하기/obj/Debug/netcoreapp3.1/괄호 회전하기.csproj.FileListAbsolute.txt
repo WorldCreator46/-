@@ -1,0 +1,14 @@
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\bin\Debug\netcoreapp3.1\괄호 회전하기.exe
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\bin\Debug\netcoreapp3.1\괄호 회전하기.deps.json
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\bin\Debug\netcoreapp3.1\괄호 회전하기.runtimeconfig.json
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\bin\Debug\netcoreapp3.1\괄호 회전하기.runtimeconfig.dev.json
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\bin\Debug\netcoreapp3.1\괄호 회전하기.dll
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\bin\Debug\netcoreapp3.1\괄호 회전하기.pdb
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.csproj.AssemblyReference.cache
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.AssemblyInfoInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.AssemblyInfo.cs
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.csproj.CoreCompileInputs.cache
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.dll
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.pdb
+E:\WorkSpace\Portfolio\C#\연습\괄호 회전하기\obj\Debug\netcoreapp3.1\괄호 회전하기.genruntimeconfig.cache
