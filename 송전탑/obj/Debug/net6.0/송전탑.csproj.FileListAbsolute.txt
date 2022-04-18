@@ -1,0 +1,15 @@
+D:\WorkSpace\Portfolio\C#\연습\송전탑\bin\Debug\net6.0\송전탑.exe
+D:\WorkSpace\Portfolio\C#\연습\송전탑\bin\Debug\net6.0\송전탑.deps.json
+D:\WorkSpace\Portfolio\C#\연습\송전탑\bin\Debug\net6.0\송전탑.runtimeconfig.json
+D:\WorkSpace\Portfolio\C#\연습\송전탑\bin\Debug\net6.0\송전탑.dll
+D:\WorkSpace\Portfolio\C#\연습\송전탑\bin\Debug\net6.0\송전탑.pdb
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.csproj.AssemblyReference.cache
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.AssemblyInfoInputs.cache
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.AssemblyInfo.cs
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.dll
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\refint\송전탑.dll
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.pdb
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\송전탑.genruntimeconfig.cache
+D:\WorkSpace\Portfolio\C#\연습\송전탑\obj\Debug\net6.0\ref\송전탑.dll
